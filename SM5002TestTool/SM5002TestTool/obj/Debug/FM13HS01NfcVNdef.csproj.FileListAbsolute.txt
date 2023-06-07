@@ -1,0 +1,9 @@
+E:\AnyID\HFReader\项目\凸版\FM13HS01NfcVNdef\FM13HS01NfcVNdef\bin\Debug\FM13HS01NfcVNdef.exe
+E:\AnyID\HFReader\项目\凸版\FM13HS01NfcVNdef\FM13HS01NfcVNdef\bin\Debug\FM13HS01NfcVNdef.pdb
+E:\AnyID\HFReader\项目\凸版\FM13HS01NfcVNdef\FM13HS01NfcVNdef\obj\Debug\ToppaIso14443BTestTool.main.resources
+E:\AnyID\HFReader\项目\凸版\FM13HS01NfcVNdef\FM13HS01NfcVNdef\obj\Debug\FM13HS01NfcVNdef.Properties.Resources.resources
+E:\AnyID\HFReader\项目\凸版\FM13HS01NfcVNdef\FM13HS01NfcVNdef\obj\Debug\FM13HS01NfcVNdef.csproj.GenerateResource.Cache
+E:\AnyID\HFReader\项目\凸版\FM13HS01NfcVNdef\FM13HS01NfcVNdef\obj\Debug\FM13HS01NfcVNdef.exe
+E:\AnyID\HFReader\项目\凸版\FM13HS01NfcVNdef\FM13HS01NfcVNdef\obj\Debug\FM13HS01NfcVNdef.pdb
+E:\AnyID\DeviceUnit\software\SM5002\SM5002TestTool\FM13HS01NfcVNdef\obj\Debug\FM13HS01NfcVNdef.exe
+E:\AnyID\DeviceUnit\software\SM5002\SM5002TestTool\FM13HS01NfcVNdef\obj\Debug\FM13HS01NfcVNdef.pdb

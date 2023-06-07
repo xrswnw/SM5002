@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UlcNdef">
+</Property><Property Name="解决方案文件" Value="E:\AnyID\HFReader\项目\凸版\UlcNdef\UlcNdef.sln">
+</Property><Property Name="用户选项文件" Value="E:\AnyID\HFReader\项目\凸版\UlcNdef\UlcNdef.suo">
+</Property><Property Name="Date" Value="2017年4月11日">
+</Property><Property Name="Time" Value="18:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="UlcNdef.sln" Description="文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\UlcNdef.sln">
+</Event><Event ErrorLevel="0" Project="" Source="UlcNdef.suo" Description="文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\UlcNdef.suo">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\UlcNdef.csproj" Description="项目文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\ToppaIso14443BTestTool\UlcNdef.csproj">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\UlcNdef.csproj.user" Description="项目用户文件成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\ToppaIso14443BTestTool\UlcNdef.csproj.user">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\hfReaderDll.cs" Description="文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\ToppaIso14443BTestTool\hfReaderDll.cs">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\main.cs" Description="文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\ToppaIso14443BTestTool\main.cs">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\main.Designer.cs" Description="文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\ToppaIso14443BTestTool\main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\Program.cs" Description="文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\ToppaIso14443BTestTool\Program.cs">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\ToppaIso14443BTestTool\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\ToppaIso14443BTestTool\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\ToppaIso14443BTestTool\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\Properties\Settings.settings" Description="文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\ToppaIso14443BTestTool\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\main.resx" Description="文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\ToppaIso14443BTestTool\main.resx">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\Properties\Resources.resx" Description="文件已成功备份为 E:\AnyID\HFReader\项目\凸版\UlcNdef\Backup\ToppaIso14443BTestTool\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="UlcNdef" Source="ToppaIso14443BTestTool\UlcNdef.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\UlcNdef.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="UlcNdef" Source="ToppaIso14443BTestTool\UlcNdef.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="UlcNdef.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="UlcNdef.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UlcNdef" Source="ToppaIso14443BTestTool\UlcNdef.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

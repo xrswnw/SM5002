@@ -1,0 +1,7 @@
+E:\AnyID\HFReader\项目\凸版\UlcNdef\ToppaIso14443BTestTool\bin\Debug\UlcNdef.exe
+E:\AnyID\HFReader\项目\凸版\UlcNdef\ToppaIso14443BTestTool\bin\Debug\UlcNdef.pdb
+E:\AnyID\HFReader\项目\凸版\UlcNdef\ToppaIso14443BTestTool\obj\Debug\ToppaIso14443BTestTool.main.resources
+E:\AnyID\HFReader\项目\凸版\UlcNdef\ToppaIso14443BTestTool\obj\Debug\UlcNdef.Properties.Resources.resources
+E:\AnyID\HFReader\项目\凸版\UlcNdef\ToppaIso14443BTestTool\obj\Debug\UlcNdef.csproj.GenerateResource.Cache
+E:\AnyID\HFReader\项目\凸版\UlcNdef\ToppaIso14443BTestTool\obj\Debug\UlcNdef.exe
+E:\AnyID\HFReader\项目\凸版\UlcNdef\ToppaIso14443BTestTool\obj\Debug\UlcNdef.pdb

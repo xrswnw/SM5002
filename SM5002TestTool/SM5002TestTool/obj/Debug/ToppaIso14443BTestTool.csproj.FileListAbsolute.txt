@@ -1,0 +1,8 @@
+E:\AnyID\HFReader\项目\凸版\ToppaIso14443BTestTool\ToppaIso14443BTestTool\bin\Debug\ToppanIso14443BTestTool.exe
+E:\AnyID\HFReader\项目\凸版\ToppaIso14443BTestTool\ToppaIso14443BTestTool\bin\Debug\ToppanIso14443BTestTool.pdb
+E:\AnyID\HFReader\项目\凸版\ToppaIso14443BTestTool\ToppaIso14443BTestTool\obj\Debug\ResolveAssemblyReference.cache
+E:\AnyID\HFReader\项目\凸版\ToppaIso14443BTestTool\ToppaIso14443BTestTool\obj\Debug\ToppaIso14443BTestTool.main.resources
+E:\AnyID\HFReader\项目\凸版\ToppaIso14443BTestTool\ToppaIso14443BTestTool\obj\Debug\ToppanIso14443BTestTool.Properties.Resources.resources
+E:\AnyID\HFReader\项目\凸版\ToppaIso14443BTestTool\ToppaIso14443BTestTool\obj\Debug\ToppaIso14443BTestTool.csproj.GenerateResource.Cache
+E:\AnyID\HFReader\项目\凸版\ToppaIso14443BTestTool\ToppaIso14443BTestTool\obj\Debug\ToppanIso14443BTestTool.exe
+E:\AnyID\HFReader\项目\凸版\ToppaIso14443BTestTool\ToppaIso14443BTestTool\obj\Debug\ToppanIso14443BTestTool.pdb

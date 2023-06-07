@@ -1,0 +1,8 @@
+E:\AnyID\DeviceUnit\software\SM5002\SM5002TestTool\SM5002TestTool\bin\Debug\SM5002TestTool.exe
+E:\AnyID\DeviceUnit\software\SM5002\SM5002TestTool\SM5002TestTool\bin\Debug\SM5002TestTool.pdb
+E:\AnyID\DeviceUnit\software\SM5002\SM5002TestTool\SM5002TestTool\obj\Debug\SM5002TestTool.Properties.Resources.resources
+E:\AnyID\DeviceUnit\software\SM5002\SM5002TestTool\SM5002TestTool\obj\Debug\SM5002TestTool.csproj.GenerateResource.Cache
+E:\AnyID\DeviceUnit\software\SM5002\SM5002TestTool\SM5002TestTool\obj\Debug\SM5002TestTool.exe
+E:\AnyID\DeviceUnit\software\SM5002\SM5002TestTool\SM5002TestTool\obj\Debug\SM5002TestTool.pdb
+E:\AnyID\DeviceUnit\software\SM5002\SM5002TestTool\SM5002TestTool\obj\Debug\SM5002TestTool.main.resources
+E:\AnyID\DeviceUnit\software\SM5002\SM5002TestTool\SM5002TestTool\obj\Debug\SM5002TestTool.csprojResolveAssemblyReference.cache

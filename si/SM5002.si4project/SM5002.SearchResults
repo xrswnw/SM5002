@@ -1,0 +1,4 @@
+---- BAT_STAT_EXIST Matches (4 in 2 files) ----
+AnyID_SM5002_Bat.h (E:\AnyID\DeviceUnit\software\SM5002\inc) line 57 : #define BAT_STAT_EXIST                  0x01        //存在电池
+AnyID_SM5002_Bat.h (E:\AnyID\DeviceUnit\software\SM5002\inc) line 114 : #define Bat_IsExist(p)                  (((p)->batInfo.state & BAT_STAT_EXIST) == BAT_STAT_EXIST)
+Sys_BatTask in AnyID_SM5002_SysCfg.c (E:\AnyID\DeviceUnit\software\SM5002\src) :                     pOpInfo->batInfo.state |= BAT_STAT_EXIST;

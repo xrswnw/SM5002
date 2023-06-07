@@ -1,0 +1,11 @@
+E:\AnyID\HFReader\项目\凸版\ISO15693NfcVNdef\ISO15693NfcVNdef\bin\Debug\ISO15693NfcVNdef.exe
+E:\AnyID\HFReader\项目\凸版\ISO15693NfcVNdef\ISO15693NfcVNdef\bin\Debug\ISO15693NfcVNdef.pdb
+E:\AnyID\HFReader\项目\凸版\ISO15693NfcVNdef\ISO15693NfcVNdef\obj\Debug\ToppaIso14443BTestTool.main.resources
+E:\AnyID\HFReader\项目\凸版\ISO15693NfcVNdef\ISO15693NfcVNdef\obj\Debug\ISO15693NfcVNdef.Properties.Resources.resources
+E:\AnyID\HFReader\项目\凸版\ISO15693NfcVNdef\ISO15693NfcVNdef\obj\Debug\ISO15693NfcVNdef.csproj.GenerateResource.Cache
+E:\AnyID\HFReader\项目\凸版\ISO15693NfcVNdef\ISO15693NfcVNdef\obj\Debug\ISO15693NfcVNdef.exe
+E:\AnyID\HFReader\项目\凸版\ISO15693NfcVNdef\ISO15693NfcVNdef\obj\Debug\ISO15693NfcVNdef.pdb
+E:\AnyID\HFReader\项目\凸版\FM13HS01NfcVNdef\ISO15693NfcVNdef\obj\Debug\ISO15693NfcVNdef.exe
+E:\AnyID\HFReader\项目\凸版\FM13HS01NfcVNdef\ISO15693NfcVNdef\obj\Debug\ISO15693NfcVNdef.pdb
+E:\AnyID\HFReader\项目\凸版\FM13HS01NfcVNdef\FM13HS01NfcVNdef\obj\Debug\ISO15693NfcVNdef.exe
+E:\AnyID\HFReader\项目\凸版\FM13HS01NfcVNdef\FM13HS01NfcVNdef\obj\Debug\ISO15693NfcVNdef.pdb

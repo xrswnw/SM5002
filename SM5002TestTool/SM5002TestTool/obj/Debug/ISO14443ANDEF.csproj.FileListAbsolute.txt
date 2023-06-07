@@ -1,0 +1,8 @@
+E:\AnyID\HFReader\项目\凸版\ISO14443ANDEF\ToppaIso14443BTestTool\bin\Debug\ISO14443ANDEF.exe
+E:\AnyID\HFReader\项目\凸版\ISO14443ANDEF\ToppaIso14443BTestTool\bin\Debug\ISO14443ANDEF.pdb
+E:\AnyID\HFReader\项目\凸版\ISO14443ANDEF\ToppaIso14443BTestTool\obj\Debug\ResolveAssemblyReference.cache
+E:\AnyID\HFReader\项目\凸版\ISO14443ANDEF\ToppaIso14443BTestTool\obj\Debug\ToppaIso14443BTestTool.main.resources
+E:\AnyID\HFReader\项目\凸版\ISO14443ANDEF\ToppaIso14443BTestTool\obj\Debug\ISO14443ANDEF.Properties.Resources.resources
+E:\AnyID\HFReader\项目\凸版\ISO14443ANDEF\ToppaIso14443BTestTool\obj\Debug\ISO14443ANDEF.csproj.GenerateResource.Cache
+E:\AnyID\HFReader\项目\凸版\ISO14443ANDEF\ToppaIso14443BTestTool\obj\Debug\ISO14443ANDEF.exe
+E:\AnyID\HFReader\项目\凸版\ISO14443ANDEF\ToppaIso14443BTestTool\obj\Debug\ISO14443ANDEF.pdb
