@@ -155,8 +155,6 @@ BOOL Uart_UsrCheckFrame(UART_RCVFRAME *pRcvFrame, u16 *pStartPos, u16 addr)
                             crc2 |= pRcvFrame->buffer[pos + frameLen - 2];
                             if(crc1 == crc2)
                             {
-                                u16 destAddr = 0;
-                                  
                                     *pStartPos = pos;
                                     b = TRUE;
                             }

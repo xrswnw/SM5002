@@ -1,18 +1,18 @@
 #include "AnyID_SM5002_Device.h"
 
 
-const u8 DEVICE_VERSION[DEVICE_VERSION_SIZE]@0x08005000 = "SM5002 23060203 G32F303";
+const u8 DEVICE_VERSION[DEVICE_VERSION_SIZE]@0x08005000 = "SM500200_23061501 G32F303";
 const u8 DEVICE_HARD_TYPE[DEVICE_VERSION_SIZE]@0x08005080 = "SM5002-GD-RC663";
 
 #define DEVICE_SOFT_VERSION         (DEVICE_VERSION + 7)//"23052300"
-
+#define DEVICE_SOFT_VER_LEN         18
 
 DEVICE_PARAMS g_sDeviceParams = {0};
 DEVICE_OPINFO g_sDeviceOpInfo = {0};
 DEVICE_INFOBUF g_sDeviceInfoBuf = {0};
 DEVICE_GATEINFO g_sDeviceGateInfo[DEVICE_GATE_NUM] = {0};
 DEVICE_INCHECK g_sDeviceInCheck[DEVICE_GATE_NUM] = {0};
-DEVICE_DOOR_STAT g_sDevice_DoorStat = {0};
+
 void Device_Delayms(u32 n)
 {
     n *= 0x6000;
@@ -560,15 +560,15 @@ u16 Device_ProcessUsrFrame(u8 *pFrame)
         case UART_FRAME_CMD_SET_PARAMS:
             if(paramsLen == DEVICE_GATE_PARAMS_LEN)
             {
-                u8 versionInfo[DEVICE_SOFT_VER_LEN] = {0}; 
+               // u8 versionInfo[DEVICE_SOFT_VER_LEN] = {0}; 
                 if(memcmp(pParams, &g_sDeviceParams.rfu0, DEVICE_GATE_PARAMS_LEN) != 0)
                 {
                     memcpy(&g_sDeviceParams.rfu0, pParams, DEVICE_GATE_PARAMS_LEN);
                     Device_WriteDeviceParamenter();
                 }
-                a_Str2Hex((char *)DEVICE_SOFT_VERSION, versionInfo);
+               // a_Str2Hex((char *)DEVICE_SOFT_VERSION, versionInfo);
                 
-                g_sR485TxFrame.len = Uart_UsrResponseFrame(versionInfo, DEVICE_SOFT_VER_LEN, cmd, g_sDeviceOpInfo.addr, g_sR485TxFrame.buffer);
+                g_sR485TxFrame.len = Uart_UsrResponseFrame((u8 *)&DEVICE_VERSION, DEVICE_SOFT_VER_LEN, cmd, g_sDeviceOpInfo.addr, g_sR485TxFrame.buffer);
             }
             break;
         case UART_FRAME_CMD_GET_PARAMS:
@@ -1179,12 +1179,4 @@ BOOL Device_CheckLockOpen(u8 index)
     {
         return (BOOL)Device_ChkLock1Open();
     }
-}
-
-
-void Device_Door_Stat_Chk()
-{
-   
-
-
 }

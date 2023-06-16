@@ -1,14 +1,14 @@
-"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armproc.dll" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armproc.dll" 
 
-"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armjlink2.dll" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armjlink2.dll" 
 
-"E:\AnyID\DeviceUnit\software\SM5002\Boot\SM5002\Build\Exe\Boot.out" 
+"E:\AnyID\HFReader\software\SM5002\Boot\SM5002\Build\Exe\Boot.out" 
 
---plugin="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armbat.dll" 
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armbat.dll" 
 
---device_macro="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\config\debugger\GD\GD32F30x.dmac" 
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\config\debugger\GD\GD32F30x.dmac" 
 
---flash_loader="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\config\flashloader\GD\FlashGD32F303xC.board" 
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\config\flashloader\GD\FlashGD32F303xC.board" 
 
 
 

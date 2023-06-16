@@ -80,8 +80,8 @@ void Sys_Tcp232Task(void);
 void Sys_BootTask(void);
 void Sys_ProcessBootFrame(UART_RCVFRAME *pRcvFrame, u8 com);
 
-#define SYS_VER_HEAD                            "SM5002 "
-#define SYS_VER_HEAD_SIZE                       6
+#define SYS_VER_HEAD                            "SM500200"
+#define SYS_VER_HEAD_SIZE                       8
     
 
 

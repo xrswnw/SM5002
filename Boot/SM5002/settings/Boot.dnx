@@ -16,7 +16,7 @@
         <LeaveTargetRunning>_ 0</LeaveTargetRunning>
     </JLinkDriver>
     <DebugChecksum>
-        <Checksum>2163113364</Checksum>
+        <Checksum>2445085627</Checksum>
     </DebugChecksum>
     <Exceptions>
         <StopOnUncaught>_ 0</StopOnUncaught>
@@ -143,7 +143,8 @@
         <Count>0</Count>
     </Breakpoints2>
     <Aliases>
-        <Count>0</Count>
+        <A0>_ "E:\AnyID\DeviceUnit\software\SM5002\Boot\src\AnyID_Boot_Uart.c" ""</A0>
+        <Count>1</Count>
         <SuppressDialog>0</SuppressDialog>
     </Aliases>
 </settings>

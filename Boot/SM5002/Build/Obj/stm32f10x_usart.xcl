@@ -4,33 +4,15 @@
 -fbracket-depth=512
 -MD
 -MF
-E:\AnyID\DeviceUnit\software\SM5002\Boot\SM5002\Build\Obj\stm32f10x_usart.pbi.dep
+E:\AnyID\HFReader\software\SM5002\Boot\SM5002\Build\Obj\stm32f10x_usart.pbi.dep
 -o
 stm32f10x_usart.pbi
 -I
 E:\AnyID\AnyID_Embedded\V1.1.0\STM32_lib_V3.3\src
 -I
-E:\AnyID\DeviceUnit\software\SM5002\Boot\SM5002\..
+E:\AnyID\HFReader\software\SM5002\Boot\SM5002\..
 -I
-E:\AnyID\DeviceUnit\software\SM5002\Boot\SM5002\..\inc
--I
-E:\AnyID\AnyID_Embedded\V1.1.0\STM32_lib_V3.3\startup
--I
-E:\AnyID\AnyID_Embedded\V1.1.0\STM32_lib_V3.3\inc
--I
-E:\AnyID\AnyID_Embedded\V1.1.0\AnyID_lib_V1.1.0\inc
--I
-D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\CMSIS\Core\Include
--I
-D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\CMSIS\DSP\Include
--I
-D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc
--I
-D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc\c
--I
-E:\AnyID\DeviceUnit\software\SM5002\Boot
--I
-E:\AnyID\DeviceUnit\software\SM5002\Boot\inc
+E:\AnyID\HFReader\software\SM5002\Boot\SM5002\..\inc
 -I
 E:\AnyID\AnyID_Embedded\V1.1.0\STM32_lib_V3.3\startup
 -I
@@ -38,9 +20,27 @@ E:\AnyID\AnyID_Embedded\V1.1.0\STM32_lib_V3.3\inc
 -I
 E:\AnyID\AnyID_Embedded\V1.1.0\AnyID_lib_V1.1.0\inc
 -I
-D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\CMSIS\Core\Include
+C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\CMSIS\Core\Include
 -I
-D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\CMSIS\DSP\Include
+C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\CMSIS\DSP\Include
+-I
+C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc
+-I
+C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\inc\c
+-I
+E:\AnyID\HFReader\software\SM5002\Boot
+-I
+E:\AnyID\HFReader\software\SM5002\Boot\inc
+-I
+E:\AnyID\AnyID_Embedded\V1.1.0\STM32_lib_V3.3\startup
+-I
+E:\AnyID\AnyID_Embedded\V1.1.0\STM32_lib_V3.3\inc
+-I
+E:\AnyID\AnyID_Embedded\V1.1.0\AnyID_lib_V1.1.0\inc
+-I
+C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\CMSIS\Core\Include
+-I
+C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\CMSIS\DSP\Include
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
@@ -326,8 +326,8 @@ D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\CMSIS\DSP\Include
 -D_ANYID_HSE12P00_=1
 -D_ANYID_BOOT_=1
 -D_ANYID_SM5002_=1
--D_DLIB_CONFIG_FILE_HEADER_NAME="D:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.3\\arm\\inc\\c\\DLib_Config_Full.h"
--D_DLIB_CONFIG_FILE_STRING="D:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.3\\arm\\inc\\c\\DLib_Config_Full.h"
+-D_DLIB_CONFIG_FILE_HEADER_NAME="C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.3\\arm\\inc\\c\\DLib_Config_Full.h"
+-D_DLIB_CONFIG_FILE_STRING="C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.3\\arm\\inc\\c\\DLib_Config_Full.h"
 -D__VERSION__="IAR ANSI C/C++ Compiler V8.40.1.212/W32 for ARM"
 -D_VA_DEFINED=
 -D_VA_LIST=struct __va_list

@@ -526,6 +526,7 @@ void Sys_GateTask(u8 index)
     
     //空闲也添加记录信息
     //开机状态，需要等待操作结束，才可以上报记录
+    //导致仓门在启用状态下开启存储电池，关门后相当于开机状态，不上报数据
     if((pGateInfo->rcdIdleDelay + pGateInfo->rcdIdleTick < g_nSysTick || pGateInfo->rcdFlag) &&
        (pGateInfo->mode == DEVICE_GATE_MODE_CHARGE || pGateInfo->mode == DEVICE_GATE_MODE_IDLE))
     {

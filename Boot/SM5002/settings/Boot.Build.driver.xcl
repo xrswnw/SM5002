@@ -6,7 +6,7 @@
 
 "-p" 
 
-"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\CONFIG\debugger\GD\GD32F303xC.ddf" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\CONFIG\debugger\GD\GD32F303xC.ddf" 
 
 "--semihosting" 
 

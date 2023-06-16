@@ -70,6 +70,7 @@ extern const PORT_INF DEV_OUTCTRL_B1;
                                                     if((b)){Device_CtrlLedB1On();}else{Device_CtrlLedB1Off();}\
                                                  }while(0) 
 
+                                                   
 extern const PORT_INF DEV_INSEN_LOCK_FB0; 
 #define Device_GetLockFB0()                     (DEV_INSEN_LOCK_FB0.Port->IDR & DEV_INSEN_LOCK_FB0.Pin)
 extern const PORT_INF DEV_INSEN_LOCK_FB1;
@@ -161,9 +162,6 @@ extern DEVICE_INFOBUF g_sDeviceInfoBuf;
 
 #define DEVICE_OUT_CTRL_POS_FAN         0x01
 #define DEVICE_OUT_CTRL_POS_DOOR        0x02
-
-
-#define DEVICE_SOFT_VER_LEN         8
 typedef struct deviceOutCtrl{
     u16 rfu: 4;
     u16 batLock1: 1;
@@ -198,13 +196,6 @@ typedef struct deviceCtrlDoor{
     BOOL bOpen;
     u32 tick;
 }DEVICE_CTRLDOOR;
-
-typedef struct deviceDoorStat{
-  u8 doorFlag;
-
-}DEVICE_DOOR_STAT;
-
-extern DEVICE_DOOR_STAT g_sDevice_DoorStat;
 
 #define DEVICE_GATE_MODE_STARTUP        0   //开机模式：上电检测，异常()：报警
 #define DEVICE_GATE_MODE_CHARGE         1   //充电模式
